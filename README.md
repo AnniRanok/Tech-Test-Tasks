@@ -5,7 +5,7 @@
 
 This repository contains solutions to technical test tasks from various interviews. The tasks cover aspects of programming, algorithms, and data handling.
 
-Deux jours sont accordés pour réaliser une tâche, soit 48 heures après réception de la tâche, le résultat doit être envoyé au client par e-mail.
+Two days are given to complete the task, i.e. 48 hours after receiving the task, the result should be sent to the client by e-mail.
 
 
 
