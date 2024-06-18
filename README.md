@@ -5,6 +5,8 @@
 
 This repository contains solutions to technical test tasks from various interviews. The tasks cover aspects of programming, algorithms, and data handling.
 
+Deux jours sont accordés pour réaliser une tâche, soit 48 heures après réception de la tâche, le résultat doit être envoyé au client par e-mail.
+
 
 
 ## Contents
