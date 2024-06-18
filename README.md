@@ -6,7 +6,6 @@
 This repository contains solutions to technical test tasks from various interviews. The tasks cover aspects of programming, algorithms, and data handling.
 
 
-## Contents
 
 ## Contents
 
