@@ -8,7 +8,10 @@ This repository contains solutions to technical test tasks from various intervie
 
 ## Contents
 
-- [Task 1: Predictive Model for yTotalHouseholdSpendings](path/to/task1)
+## Contents
+
+- [Task 1: Predictive Model for yTotalHouseholdSpendings](https://github.com/AnniRanok/Tech-Test-Tasks/blob/main/Test_technique_1.ipynb)
+
 - [Task 2](path/to/task1)
 
 
